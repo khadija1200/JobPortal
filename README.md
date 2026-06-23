@@ -13,7 +13,7 @@ Description rapide du projet.
 
 ## Captures d'écran
 
-<img src="assets/candidat.png" alt="candidat" width="700">
+<img src="assets/recruteurs.png" alt="candidat" width="700">
 
 <img src="assets/candidat_postuler.png" alt="postuler" width="700">
 
